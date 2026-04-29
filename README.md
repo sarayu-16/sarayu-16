@@ -15,7 +15,7 @@
 * 🏗️ Currently building scalable platforms solving practical problems
 * 🌱 Learning: **Microservices Architecture, System Design, AI Integration**
 * 🎯 Goal: Become a **high-impact software engineer at top product companies**
-* 📍 Gujarat, India
+* 📍 Banglore, India
 
 ---
 
@@ -23,7 +23,7 @@
 
 ### 💡 Languages
 
-Java · Python · JavaScript · TypeScript · SQL
+Java ·  JavaScript · TypeScript · SQL
 
 ### 🎨 Frontend
 
@@ -39,7 +39,7 @@ MySQL · Git · Postman · VS Code · IntelliJ IDEA
 
 ### 🤖 AI & Data
 
-OpenAI API · Pandas · Scikit-learn
+OpenAI API · LLM
 
 ---
 
@@ -123,7 +123,7 @@ Python · Pandas · Scikit-learn · Matplotlib
 ## 🤝 Connect With Me
 
 * 💼 LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
-* 📧 Email: [sarayu16@gmail.com](mailto:sarayu16@gmail.com)
+* 📧 Email: [sarayupenagati@gmail.com](mailto:sarayupenagati@gmail.com)
 * 💻 GitHub: https://github.com/sarayu-16
 
 ---
